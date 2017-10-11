@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	text-decoration: underline;
+	color: #000000;
+}
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+.style1 {color: #FFFFFF}
+.yonetici_yazilar {
+	font-family: Calibri;
+	font-size: 16px;
+}
+.yonetici_text
+{
+border:2px solid #145687;
+background-color:#96CAED;
+width:200px;
+height:25px;
+font-family:Calibri;
+font-size:20px;
+}
+.yonetici_dis_tablo
+{
+border:3px dotted #145687;
+}
+
+.yonetim_bolumu
+{
+border:2px solid #145687;
+background-color:#96CAED;
+
+font-family:Calibri;
+font-size:18px;
+}
+
+.yonetim_kategori_yazilar
+{
+font-family:Calibri;
+font-size:16px;
+}
+
+
+.sablon
+{
+border:2px solid #145687;
+background-color:#96CAED;
+
+font-family:Calibri;
+font-size:16px;
+
+}
+
+.sablon_yazilar
+{
+font-family:Calibri;
+font-size:16px;
+}
+.sablon_kutular
+{
+border:2px solid #145687;
+background-color:#6699cc;
+width:200px;
+height:30px;
+color:#FFFFFF;
+font-family:Calibri;
+font-size:17px;
+}
+
+.check
+{
+border:2px solid #145687;
+background-color:#6699cc;
+width:50px;
+height:20px;
+}
+
+.sablon_kutular1
+{
+border:2px solid #145687;
+background-color:#6699cc;
+width:200px;
+height:80px;
+color:#FFFFFF;
+font-family:Calibri;
+font-size:17px;
+}
+
+
+.bilgi{
+	font-family: "Segoe UI Light";
+	text-decoration:underline;
+}
+
+.sablon2
+{
+
+width:150px;
+height:30px;
+
+}
